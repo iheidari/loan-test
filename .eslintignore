@@ -1,0 +1,4 @@
+# Markdown file
+**/*.md
+# All package.json
+**/package.json

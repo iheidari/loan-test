@@ -1,0 +1,14 @@
+*.min.js
+**/node_modules/**
+
+# build sites
+dist
+
+# coverage
+coverage
+
+# cache-dirs
+**/.cache
+
+#Storybook build folder
+storybook-static
